@@ -1,0 +1,72 @@
+.fixed-content {
+    width: 960px;
+}
+
+body {
+    color: #777;
+}
+
+h1 {
+    color: #000;
+}
+
+#logo {
+    color: #ff0000;
+    font-size: 24px;
+}
+
+#call-now {
+    color: #ff0000;
+    font-size: 18px;
+}
+
+#slogan {
+    display: inline-block;
+    color: #666;
+    font-size: 18px;
+}
+
+#main-content {
+    background: #fbfbfb;
+    padding: 2px 0;
+}
+
+.btn {
+    background: #f06a30;
+    background-image: -webkit-linear-gradient(top, #f06a30, #db632c);
+    background-image: -moz-linear-gradient(top, #f06a30, #db632c);
+    background-image: -ms-linear-gradient(top, #f06a30, #db632c);
+    background-image: -o-linear-gradient(top, #f06a30, #db632c);
+    background-image: linear-gradient(to bottom, #f06a30, #db632c);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #f5ae08;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d6911a;
+    text-decoration: none;
+  }
+
+  .but {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+    background: #93b0c4;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .but:hover {
+    background: #a6a6a6;
+    text-decoration: none;
+  }
+
